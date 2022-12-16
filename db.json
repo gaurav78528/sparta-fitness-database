@@ -1,4 +1,18 @@
 {
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
   "Products": [
     {
       "id": 1,
@@ -173,7 +187,7 @@
   ],
   "articles": [
     {
-      "fitness": [
+      "cat": [
         {
           "id": 1,
           "image": "https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1195-what-is-rib-flare-and-how-to-tell-if-you-have-it-9bb4.jpg",
@@ -209,7 +223,7 @@
       ]
     },
     {
-      "health": [
+      "cat": [
         {
           "id": 5,
           "image": "https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1130-understanding-the-importance-of-the-pelvic-floor-during-pregnancy-9207.jpg",
@@ -245,7 +259,7 @@
       ]
     },
     {
-      "nutrition": [
+      "cat": [
         {
           "id": 9,
           "image": "https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1134-the-relationship-between-food-and-mood-9c6d.jpg",
@@ -281,14 +295,14 @@
       ]
     },
     {
-      "healthy-recipes": [
+      "cat": [
         {
           "id": 13,
           "image": "https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1085-tandoori-style-chicken-skewers-b77b.jpg",
           "label": "Free",
           "time": 7,
           "description": "Tandoori-Style Chicken Skewers With Curry Sauce and Brown Rice",
-          "category": "healthy-recipes"
+          "category": "healthy recipes"
         },
         {
           "id": 14,
@@ -296,7 +310,7 @@
           "label": "Free",
           "time": 7,
           "description": "Banana and Almond Snack",
-          "category": "healthy-recipes"
+          "category": "healthy recipes"
         },
         {
           "id": 15,
@@ -304,7 +318,7 @@
           "label": "Free",
           "time": 7,
           "description": "Shakshuka Breakfast Pizza North-African and Middle Eastern Inspired Breakfast",
-          "category": "healthy-recipes"
+          "category": "healthy recipes"
         },
         {
           "id": 16,
@@ -312,12 +326,12 @@
           "label": "Free",
           "time": 7,
           "description": "BBQ Chicken Sandwich With Kale, Tomatoes, and Cheddar",
-          "category": "healthy-recipes"
+          "category": "healthy recipes"
         }
       ]
     },
     {
-      "experts": [
+      "cat": [
         {
           "id": 17,
           "image": "https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1126-looking-to-start-a-family-what-you-need-to-know-about-exercise-and-fertility-a2cc.jpg",
@@ -353,14 +367,14 @@
       ]
     },
     {
-      "mental-health": [
+      "cat": [
         {
           "id": 21,
           "image": "https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1316-the-role-of-exercise-in-addiction-treatment-a022.jpg",
           "label": "Free",
           "time": 8,
           "description": "The Role of Exercise in Addiction Treatment How Fitness Can Help With Recovery",
-          "category": "mental-health"
+          "category": "mental health"
         },
         {
           "id": 22,
@@ -368,7 +382,7 @@
           "label": "Free",
           "time": 12,
           "description": "How to Promote a Positive Body Image in Your Child(ren) Practical Tips, Support, and Good Behaviors to Model",
-          "category": "mental-health"
+          "category": "mental health"
         },
         {
           "id": 23,
@@ -376,7 +390,7 @@
           "label": "Free",
           "time": 10,
           "description": "How Personality Traits Shape Exercise Behaviors 5 Factors That Impact Your Fitness and Health Habits",
-          "category": "mental-health"
+          "category": "mental health"
         },
         {
           "id": 24,
@@ -384,12 +398,12 @@
           "label": "Free",
           "time": 10,
           "description": "When Rest is More Important Than Working Out Tips for Managing Rest Days",
-          "category": "mental-health"
+          "category": "mental health"
         }
       ]
     },
     {
-      "wellness": [
+      "cat": [
         {
           "id": 25,
           "image": "https://d18zdz9g6n5za7.cloudfront.net/wellness-videos/640/640-69-mindfulness-for-cooking-9617.jpg",
