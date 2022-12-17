@@ -1,18 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
   "Products": [
     {
       "id": 1,
@@ -194,7 +180,7 @@
           "label": "Free",
           "time": 7,
           "description": "What is Rib Flare and How to Tell if You Have It",
-          "category": "fitness"
+          "category": "Fitness"
         },
         {
           "id": 2,
@@ -202,7 +188,7 @@
           "label": "",
           "time": 9,
           "description": "Looking to Start a Family? What You Need to Know About Exercise and Fertility",
-          "category": "fitness"
+          "category": "Fitness"
         },
         {
           "id": 3,
@@ -210,7 +196,7 @@
           "label": "Free",
           "time": 7,
           "description": "How to Do A Burpee: FitnessBlender’s Comprehensive Guide",
-          "category": "fitness"
+          "category": "Fitness"
         },
         {
           "id": 4,
@@ -218,7 +204,7 @@
           "label": "Free",
           "time": 9,
           "description": "New to Running? Here’s What You Should Know",
-          "category": "fitness"
+          "category": "Fitness"
         }
       ]
     },
@@ -230,7 +216,7 @@
           "label": "",
           "time": 6,
           "description": "Understanding the Importance of the Pelvic Floor During Pregnancy",
-          "category": "health"
+          "category": "Health"
         },
         {
           "id": 6,
@@ -238,7 +224,7 @@
           "label": "Free",
           "time": 9,
           "description": "New to Running? Here’s What You Should Know",
-          "category": "health"
+          "category": "Health"
         },
         {
           "id": 7,
@@ -246,7 +232,7 @@
           "label": "Free",
           "time": 8,
           "description": "10 Exercises You Can Do At Work",
-          "category": "health"
+          "category": "Health"
         },
         {
           "id": 8,
@@ -254,7 +240,7 @@
           "label": "",
           "time": 9,
           "description": "Helpful Exercises for Knee Valgus",
-          "category": "health"
+          "category": "Health"
         }
       ]
     },
@@ -266,7 +252,7 @@
           "label": "Free",
           "time": 15,
           "description": "The Relationship Between Food and Mood",
-          "category": "nutrition"
+          "category": "Nutrition"
         },
         {
           "id": 10,
@@ -274,7 +260,7 @@
           "label": "Free",
           "time": 9,
           "description": "7 Health Benefits to Eating Meals as a Family",
-          "category": "nutrition"
+          "category": "Nutrition"
         },
         {
           "id": 11,
@@ -282,7 +268,7 @@
           "label": "Free",
           "time": 11,
           "description": "Eating Disorders Explained, Contributing Factors, and Lived Experiences",
-          "category": "nutrition"
+          "category": "Nutrition"
         },
         {
           "id": 12,
@@ -290,7 +276,7 @@
           "label": "",
           "time": 8,
           "description": "Understanding Sugar Addiction and Ways to Moderate Sugar Consumption",
-          "category": "nutrition"
+          "category": "Nutrition"
         }
       ]
     },
@@ -302,7 +288,7 @@
           "label": "Free",
           "time": 7,
           "description": "Tandoori-Style Chicken Skewers With Curry Sauce and Brown Rice",
-          "category": "healthy recipes"
+          "category": "Healthy Recipes"
         },
         {
           "id": 14,
@@ -310,7 +296,7 @@
           "label": "Free",
           "time": 7,
           "description": "Banana and Almond Snack",
-          "category": "healthy recipes"
+          "category": "Healthy Recipes"
         },
         {
           "id": 15,
@@ -318,7 +304,7 @@
           "label": "Free",
           "time": 7,
           "description": "Shakshuka Breakfast Pizza North-African and Middle Eastern Inspired Breakfast",
-          "category": "healthy recipes"
+          "category": "Healthy Recipes"
         },
         {
           "id": 16,
@@ -326,7 +312,7 @@
           "label": "Free",
           "time": 7,
           "description": "BBQ Chicken Sandwich With Kale, Tomatoes, and Cheddar",
-          "category": "healthy recipes"
+          "category": "Healthy Recipes"
         }
       ]
     },
@@ -338,7 +324,7 @@
           "label": "",
           "time": 9,
           "description": "Looking to Start a Family? What You Need to Know About Exercise and Fertility",
-          "category": "experts"
+          "category": "Experts"
         },
         {
           "id": 18,
@@ -346,7 +332,7 @@
           "label": "Free",
           "time": 9,
           "description": "New to Running? Here’s What You Should Know",
-          "category": "experts"
+          "category": "Experts"
         },
         {
           "id": 19,
@@ -354,7 +340,7 @@
           "label": "Free",
           "time": 8,
           "description": "10 Exercises You Can Do At Work",
-          "category": "experts"
+          "category": "Experts"
         },
         {
           "id": 20,
@@ -362,7 +348,7 @@
           "label": "",
           "time": 11,
           "description": "6 Ways to Overcome Gym Anxiety",
-          "category": "experts"
+          "category": "Experts"
         }
       ]
     },
@@ -374,7 +360,7 @@
           "label": "Free",
           "time": 8,
           "description": "The Role of Exercise in Addiction Treatment How Fitness Can Help With Recovery",
-          "category": "mental health"
+          "category": "Mental Health"
         },
         {
           "id": 22,
@@ -382,7 +368,7 @@
           "label": "Free",
           "time": 12,
           "description": "How to Promote a Positive Body Image in Your Child(ren) Practical Tips, Support, and Good Behaviors to Model",
-          "category": "mental health"
+          "category": "Mental Health"
         },
         {
           "id": 23,
@@ -390,7 +376,7 @@
           "label": "Free",
           "time": 10,
           "description": "How Personality Traits Shape Exercise Behaviors 5 Factors That Impact Your Fitness and Health Habits",
-          "category": "mental health"
+          "category": "Mental Health"
         },
         {
           "id": 24,
@@ -398,7 +384,7 @@
           "label": "Free",
           "time": 10,
           "description": "When Rest is More Important Than Working Out Tips for Managing Rest Days",
-          "category": "mental health"
+          "category": "Mental Health"
         }
       ]
     },
@@ -410,7 +396,7 @@
           "label": "",
           "time": 8,
           "description": "Mindfulness for Cooking Mindful Food Preparation to Support Mindful Eating",
-          "category": "wellness"
+          "category": "Wellness"
         },
         {
           "id": 26,
@@ -418,7 +404,7 @@
           "label": "",
           "time": 12,
           "description": "Meditation to Prepare for Childbirth Mindfulness Practice for Pregnancy",
-          "category": "wellness"
+          "category": "Wellness"
         },
         {
           "id": 27,
@@ -426,7 +412,7 @@
           "label": "",
           "time": 20,
           "description": "Bedtime Stress Reduction Guided Meditation for Better Sleep",
-          "category": "wellness"
+          "category": "Wellness"
         },
         {
           "id": 28,
@@ -434,7 +420,7 @@
           "label": "",
           "time": 10,
           "description": "Guided Practice to Embrace Vulnerability Mindfulness for Overcoming Fear of Vulnerability",
-          "category": "wellness"
+          "category": "Wellness"
         }
       ]
     }
