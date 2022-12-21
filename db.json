@@ -852,5 +852,12 @@
       "day": "23 Min • Upper Body  "
     }
   ],
-  "userData":[]
+  "userData":[
+    {
+"username": "Gaurav12",
+"email": "gaurav785280@gmail.com",
+"password": "Hello123*",
+"id": 1
+}
+  ]
 }
